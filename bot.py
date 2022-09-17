@@ -33,10 +33,10 @@ async def start(event):
                          Button.url('🔥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚋𝚢 🔥', 'https://t.me/XYZpiyes'), 
                       ], 
                       [
-                        Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
+                        Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/Piyestagall_bot?startgroup=true'),   
                       ]
                    ), 
-                    link_preview=True
+                    link_preview=False
                    )
 
 #help
@@ -50,10 +50,10 @@ async def help(event):
                          Button.url('🔥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚋𝚢 🔥', 'https://t.me/XYZpiyes'), 
                       ], 
                       [
-                        Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
+                        Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/Piyestagall_bot?startgroup=true'),   
                       ]
                    ), 
-                    link_preview=True
+                    link_preview=False
                    )
 
 # command atau perintah
