@@ -92,7 +92,7 @@ async def mentionall(event):
       usrnum += 1
       usrtxt += f"[{usr.first_name}](tg://user?id={usr.id}) "
       if event.chat_id not in moment_worker:
-        await event.respond("MentionAll Berhasil di cancel!")
+        await event.respond("Minimal bilang makasih kontol!")
         return
       if usrnum == 5:
         await ribot.send_message(event.chat_id, f"{usrtxt}\n\n{msg}")
@@ -110,7 +110,7 @@ async def mentionall(event):
       usrnum += 1
       usrtxt += f"[{usr.first_name}](tg://user?id={usr.id}) "
       if event.chat_id not in moment_worker:
-        await event.respond("MentionAll Berhasil di cancel!")
+        await event.respond("Minimal bilang makasih qontol!")
         return
       if usrnum == 5:
         await ribot.send_message(event.chat_id, usrtxt, reply_to=msg)
@@ -150,7 +150,7 @@ async def cancel_spam(event):
             moment_worker.remove(event.chat_id)
         except:
             pass
-        return await event.respond('**__Mention all berhenti__**\n\n**__Manage By:__ @SilenceSpe4ks ☕**')
+        return await event.respond('**__Mention all berhenti__**\n\n**__Manage By:__ @Piyesss ☕**')
 
 
 print("🔥 Bot berhasil di aktifkan 🔥")
