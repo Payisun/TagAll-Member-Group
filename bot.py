@@ -46,8 +46,8 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [
-                         Button.url('✨ 𝙼𝚊𝚗𝚊𝚐𝚎 𝚋𝚢✨', 'https://t.me/SilenceSpe4ks'), 
-                         Button.url('🔥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚋𝚢 🔥', 'https://t.me/SharingUserbot'), 
+                         Button.url('✨ 𝙼𝚊𝚗𝚊𝚐𝚎 𝚋𝚢✨', 'https://t.me/Piyesss'), 
+                         Button.url('🔥 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚋𝚢 🔥', 'https://t.me/XYZpiyes'), 
                       ], 
                       [
                         Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
@@ -154,5 +154,5 @@ async def cancel_spam(event):
 
 
 print("🔥 Bot berhasil di aktifkan 🔥")
-print("Butuh bantuan? Silahkan chat @SilenceSpe4ks ☕")
+print("Butuh bantuan? Silahkan chat @XYZpiyes ☕")
 ribot.run_until_disconnected()
