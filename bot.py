@@ -36,7 +36,7 @@ async def start(event):
                         Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
                       ]
                    ), 
-                    link_preview=False
+                    link_preview=True
                    )
 
 #help
@@ -53,7 +53,7 @@ async def help(event):
                         Button.url('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕ ', 'https://t.me/MEMBER_TAGERBOT?startgroup=true'),   
                       ]
                    ), 
-                    link_preview=False
+                    link_preview=True
                    )
 
 # command atau perintah
